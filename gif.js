@@ -1,6 +1,3 @@
-define(function() {
-
-
 // Generic functions
 var bitsToNum = function(ba) {
   return ba.reduce(function(s, n) { return s * 2 + n; }, 0);
@@ -352,11 +349,3 @@ if (typeof exports !== 'undefined') {
   exports.parseGIF = parseGIF;
 }
 // END_NON_BOOKMARKLET_CODE
-
-  
-  return {
-    parseGif: parseGif,
-    Stream: Stream,
-  };
-  
-});
