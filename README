@@ -1,1 +1,5 @@
 JavaScript GIF parser and player bookmarklet. See <http://slbkbs.org/jsgif>.
+
+
+Forked from https://github.com/shachaf/jsgif
+Made available as direct link through https://jacklehamster.github.io/jsgif/gif.js
